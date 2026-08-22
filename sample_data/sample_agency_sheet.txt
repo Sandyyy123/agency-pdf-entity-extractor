@@ -1,0 +1,24 @@
+TALENT AGENCY BOOKING SHEET  --  (illustrative sample; simulates text extracted from a multi-page PDF)
+
+PROJECT: Aurora Spring Campaign 2026
+CLIENT: Northwind Apparel Inc.
+START: 2026-03-14
+ROLES:
+- Lead Model: Mara Velez <mara.velez@example.com> / +1 555 214 7788
+- Photographer: Dev Kapoor <dev.kapoor@example.com> / +1 555 900 1122
+- Stylist: Jordan Lee <jordan.lee@example.com>
+
+PROJECT: Northwind Holiday Lookbook
+CLIENT: Northwind Apparel, Inc
+START: 2026-10-02
+ROLES:
+- Lead Model: Mara  Velez <mara.velez@example.com>
+- Retoucher: Priya Nair <priya.nair@example.com> / +1 555 771 3390
+- Photographer: Dev Kapoor <dev.kapoor@example.com>
+
+PROJECT: Skyline Editorial Feature
+CLIENT: Meridian Media LLC
+START: 2026-05-20
+ROLES:
+- Writer: Jordan Lee <jordan.lee.writer@example.com>
+- Photographer: Sam Okoye <sam.okoye@example.com> / +44 20 7946 0000

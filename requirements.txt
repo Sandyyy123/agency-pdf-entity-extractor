@@ -1,0 +1,9 @@
+pydantic>=2.5
+fastapi>=0.110
+uvicorn>=0.27
+pytest>=8.0
+# Production PDF + DB extras (not needed to run the offline demo):
+# pdfplumber>=0.11
+# PyMuPDF>=1.24
+# asyncpg>=0.29
+# supabase>=2.4
